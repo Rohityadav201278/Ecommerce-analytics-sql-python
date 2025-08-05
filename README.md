@@ -8,7 +8,7 @@ To analyze the performance of an e-commerce platform across various dimensions l
 
 ## 🛠️ Technologies Used
 
-- **Language**: Python 3.x  
+- **Language**: Python   
 - **Database**: MySQL  
 - **Libraries**: 
   - `pandas`
